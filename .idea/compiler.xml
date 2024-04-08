@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="FrontOfHouse" />
+        <module name="T19FrontOfHouse" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="FrontOfHouse" target="19" />
+      <module name="T19" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

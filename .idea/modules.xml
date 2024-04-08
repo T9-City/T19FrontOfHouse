@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/src/FrontOfHouse.iml" filepath="$PROJECT_DIR$/src/FrontOfHouse.iml" />
       <module fileurl="file://$PROJECT_DIR$/T19FrontOfHouse.iml" filepath="$PROJECT_DIR$/T19FrontOfHouse.iml" />
     </modules>
   </component>
