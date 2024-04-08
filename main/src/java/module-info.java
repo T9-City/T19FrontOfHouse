@@ -1,4 +1,4 @@
-module FrontOfHouse {
+module T19FrontOfHouse {
     requires javafx.controls;
     requires javafx.base;
     requires javafx.fxml;
